@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Salunkhe</h1>
 <h3 align="center">A passionate programmer from India.</h3>
-(img align="right" alt="Coding" width="400" src=""C:\Users\Chaitanya Salunkhe\OneDrive\Desktop\man-programmer-back-view_88272-528.avif".")
+(img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.8dPfuEouq-uHbqjuRY9SDgHaGI&pid=Api&P=0&h=220")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyasalunkhe&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyasalunkhe" /> </p>
 
 - 🌱 I’m currently learning **DSA in C++**
